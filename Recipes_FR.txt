@@ -1,0 +1,3 @@
+Recipes_FR = {
+	Recipe_Open_Parcel = "Ouvrir le lot",
+}
